@@ -59,6 +59,8 @@ Most of my day-to-day work revolves around interactive geospatial viewers and sc
 ### Mapping & Data Visualization
 <p align="left">
   <img src="https://docs.maptiler.com/assets/img/leaflet-logo-icon.svg" width="80"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn2tN_byLwC-Lu0q5ANKZwT23oOL4MioBLXw&s" width="80" alt="GeoServer" title="GeoServer"/>
+  <img src="https://maplibre.org/img/maplibre-logos/maplibre-logo-dark-transparent-bg.png" width="80"/>
 </p>
 
 ### Tools & Workflow
@@ -66,13 +68,6 @@ Most of my day-to-day work revolves around interactive geospatial viewers and sc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-</p>
-
-### Learning / Exploring
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" title="PostgreSQL"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn2tN_byLwC-Lu0q5ANKZwT23oOL4MioBLXw&s" width="80" alt="GeoServer" title="GeoServer"/>
-  <img src="https://maplibre.org/img/maplibre-logos/maplibre-logo-dark-transparent-bg.png" width="80"/>
 </p>
 
 ---
